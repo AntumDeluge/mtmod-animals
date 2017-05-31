@@ -1,6 +1,6 @@
-# Animals Modpack
+# Animals Mod
 
-Modpack of many animals for [Minetest][].
+Compilation of animals for [Minetest][].
 
 Please note, this is not a fork of [sapier's *animals_modpack*][sapier], but may contain code from it.
 
