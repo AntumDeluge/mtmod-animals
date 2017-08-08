@@ -13,7 +13,7 @@ Please note, this project is a work-in-progress & is not yet funcitonal.
 ---
 ### Licensing
 
-- [MIT][lic.mit]
+- See individual mods for licensing.
 
 
 
