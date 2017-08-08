@@ -1,0 +1,3 @@
+[submodule "mob_sheep"]
+	path = mob_sheep
+	url = https://AntumDeluge@github.com/AntumMT/mod-mob_sheep.git
