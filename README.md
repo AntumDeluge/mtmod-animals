@@ -7,7 +7,14 @@ Please note, this project is a work-in-progress & is not yet funcitonal.
 ---
 ### Dependencies
 
-- none (yet)
+- ***mob_sheep***
+  - Required:
+    - [creatures][]
+    - [default][]
+  - Optional:
+    - [farming][]
+    - [wool][]
+
 
 
 ---
@@ -18,5 +25,10 @@ Please note, this project is a work-in-progress & is not yet funcitonal.
 
 
 [Minetest]: http://minetest.net/
+
+[creatures]: https://github.com/minetest-mods/mob-engine/blob/master/creatures
+[default]: https://github.com/minetest/minetest_game/blob/master/mods/default
+[farming]: https://github.com/minetest/minetest_game/blob/master/mods/farming
+[wool]: https://github.com/minetest/minetest_game/blob/master/mods/wool
 
 [lic.mit]: LICENSE.txt
