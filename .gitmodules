@@ -1,5 +1,5 @@
 [submodule "mob_sheep"]
-	path = mob_sheep
+	path = sheep
 	url = https://AntumDeluge@github.com/AntumMT/mod-mob_sheep.git
 [submodule "mob_horse"]
 	path = horse
